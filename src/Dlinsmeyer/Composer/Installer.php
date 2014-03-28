@@ -8,7 +8,7 @@
 namespace Dlinsmeyer\Composer;
 
 use Composer\Script\Event;
-use Nerdery\WordPress\Installer\HtaccessInstaller;
+use Dlinsmeyer\Composer\Installer\HtaccessInstaller;
 use Symfony\Component\Yaml\Inline;
 use Symfony\Component\Yaml\Parser;
 use Symfony\Component\Yaml\Yaml;
@@ -16,7 +16,7 @@ use Symfony\Component\Yaml\Yaml;
 /**
  * Class Installer
  *
- * @package Nerdery\WordPress
+ * @package Dlinsmeyer\Composer
  * @author Douglas Linsmeyer <douglinsmeyer@gmail.com>
  */
 class Installer
