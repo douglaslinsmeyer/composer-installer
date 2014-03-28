@@ -1,5 +1,5 @@
 {
-    "name": "dlinsmey/composer-installer",
+    "name": "dlinsmeyer/composer-installer",
     "description": "Composer based application installation package.",
     "type": "library",
     "license": "MIT",
