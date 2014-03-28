@@ -24,7 +24,7 @@ class Installer
     /*
      * Constants
      */
-    const EXTRAS_KEY_INSTALLER = 'nerdery-installer';
+    const EXTRAS_KEY_INSTALLER = 'dlinsmeyer-installer';
     const EXTRAS_KEY_INCENTEEV = 'incenteev-parameters';
     const CONFIG_KEY_CONFIG_FILE = 'config-file';
     const INCENTEEV_PARAMETER_KEY = 'parameter-key';
