@@ -15,7 +15,7 @@
         }
     ],
     "autoload": {
-        "psr-0": { "": "src/" }
+        "psr-4": { "Dlinsmeyer\\Composer\\": "src/" }
     },
     "extra": {
         "branch-alias": {
